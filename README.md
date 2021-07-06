@@ -1,4 +1,4 @@
-![](https://github.com/leandrocosmetomassini/SEO/blob/master/Documentos/Screenshot.png?raw=true)
+![](https://raw.githubusercontent.com/leandrotomassini/SEO/main/Documentos/seo.png)
 # SEO
 Técnicas y herramientas.
 
